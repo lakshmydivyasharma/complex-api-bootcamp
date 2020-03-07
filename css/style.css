@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  /* this helps to account the size of every border */
+}
+
+html{
+  font-size: 10px;
+  font-family: 'Righteous', cursive;
+}
+
+body{
+  text-align: center;
+  background-image: url("../images/background.jpg");
+  color: white;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h2{
+  font-size: 2rem;
+}
